@@ -1,2 +1,2 @@
 # Probabilidad y estadistica 1
-Probabilidad y Estadística 1
+Probabilidad y estadística 1
